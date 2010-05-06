@@ -2,9 +2,11 @@
 
 { 
   "data" => {
-    "token" => "token",
-    "url" => "https://youraccount.talkerapp.com/rooms/ROOM_ID",
-    "digest" => 1
+    "token" => "000123",
+    "subdomain" => "subdomain",
+    "ssl" => 1,
+    "room" => "test",
+    "play_sound" => 1
   },
 
   "payload" => {
